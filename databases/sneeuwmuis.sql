@@ -8,6 +8,6 @@ CREATE TABLE `dieren` (
 );
 
 INSERT INTO `dieren` (`id`,`product`,`prijs`) VALUES
-(1, `Cavia`, 40),
-(2, `Goudvis`, 50),
-(3, `Kat`, 100);
+(1, `Cavia`, `40`),
+(2, `Goudvis`, `50`),
+(3, `Kat`, `100`);
